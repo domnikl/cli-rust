@@ -1,4 +1,4 @@
-use clap::{Arg, ArgAction, Command, Parser};
+use clap::Parser;
 use std::{
     error::Error,
     fs::File,
